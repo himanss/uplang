@@ -1,4 +1,4 @@
-const up = require('../uplang.js');
+const up = require('./uplang.js');
 //setInterval(i=>i,500000)
 
 ///*
